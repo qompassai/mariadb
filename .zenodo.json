@@ -1,5 +1,5 @@
 {
-  "title": "{{REPO_NAME}}",
+  "title": "MariaDB",
   "description": "\n",
   "license": [
     "AGPL-3.0",
@@ -19,7 +19,7 @@
     "AI",
     "Quantum",
     "Post-Quantum Cryptography",
-    "Healthcare",
+    "MariaDB",
     "Education"
   ],
   "related_identifiers": [
@@ -31,7 +31,7 @@
   ],
   "communities": [
     {
-      "identifier": "qompass"
+      "identifier": "qompassai"
     }
   ]
 }

@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-title: "mariadb"
+title: "Qompass AI on Mariadb"
 message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Porter"
@@ -17,6 +17,6 @@ keywords:
   - Post-Quantum Cryptography
   - Quantum
   - data science
-  - machine learning
-  - python
+  - mysql
+  - mariadb
 abstract: "Qompass AI on MariaDB"

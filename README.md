@@ -1,3 +1,7 @@
+<!-- /qompassai/mariadb/README.md -->
+<!-- ---------------------------- -->
+<!-- Copyright (C) 2025 Qompass AI, All rights reserved -->
+
 <h2> MariaDB: An open-source fork of MySQL </h2>
 
 <h3> Qompass AI on MariaDB </h3>
